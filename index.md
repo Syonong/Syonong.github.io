@@ -34,13 +34,13 @@
   <img src="./img/thumbnail.png">
 - 동영상
   [![](./img/KakaoTalk_20211005_115317598.png)](https://youtu.be/w4FZRe1wjUk)
-  [![](.img/KakaoTalk_20211005_115542644.png)](https://youtu.be/JYZQKSgkZrk)
+  [![](./img/KakaoTalk_20211005_115542644.png)](https://youtu.be/JYZQKSgkZrk)
 
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/thumbnail.png)
+![그림](./img/이미지.png)
 
 <br><br>
 
