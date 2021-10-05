@@ -31,7 +31,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/thumbnail.png.jpg">
+  <img src="./img/thumbnail.png">
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
@@ -39,7 +39,7 @@
 
 # [대표 이미지]
 
-![그림](./img/thumbnail.png.png)
+![그림](./img/thumbnail.png)
 
 <br><br>
 
