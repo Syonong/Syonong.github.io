@@ -33,7 +33,8 @@
 - 이미지  
   <img src="./img/thumbnail.png">
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  [![](./img/KakaoTalk_20211005_115317598.png)](https://youtu.be/w4FZRe1wjUk)
+  [![](.img/KakaoTalk_20211005_115542644.png)](https://youtu.be/JYZQKSgkZrk)
 
 <br><br>
 
