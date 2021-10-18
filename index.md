@@ -125,7 +125,7 @@
 ## 1. 게임 오브젝트 분해 (구성 요소 분석)
 
 |연번|오브젝트 이름|오브젝트 이미지|
-|---|---|---|
+|:----:|:----:|:----:|
 |1|Player|<img src="img/char.png">|
 |2|maze|<img src="img/maze.png"><img src="img/Trap.png">|
 |3|Trap|<img src="img/Trap2.png"><img src="img/Trap3.png">|
