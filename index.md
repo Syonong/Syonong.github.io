@@ -125,4 +125,15 @@
 ## 1. 게임 오브젝트 분해 (구성 요소 분석)
 
 |연번|오브젝트 이름|오브젝트 이미지|
-|1|Player|<img src="img/chra.png">|
+|:----:|:----:|:----:|
+|1|Player|<img src="img/char.png">|
+|2|maze|<img src="img/maze.png", "img/Trap.png">|
+|3|Trap|<img src="img/Trap2.png", "img/Trap3.png">|
+|4|spTrap|<img src="img/spTrap.png">|
+|5|smTrap|<img src="img/smTrap.png">|
+|6|atTrap|<img src="img/atTrap.png">|
+|7|wtTrap|<img src="img/wtTrap.png" + "img/wtTrap2.png">|
+
+## 2. 파라미터(속성) 뽑아 보기
+
+### 1) 오브젝트 이름 : 플레이어
