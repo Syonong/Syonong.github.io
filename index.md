@@ -128,11 +128,11 @@
 |:----:|:----:|:----:|
 |1|Player|<img src="img/char.png">|
 |2|maze|<img src="img/maze.png"><img src="img/Trap.png">|
-|3|Trap|<img src="img/Trap2.png", "img/Trap3.png">|
+|3|Trap|<img src="img/Trap2.png"><img src="img/Trap3.png">|
 |4|spTrap|<img src="img/spTrap.png">|
 |5|smTrap|<img src="img/smTrap.png">|
 |6|atTrap|<img src="img/atTrap.png">|
-|7|wtTrap|<img src="img/wtTrap.png" + "img/wtTrap2.png">|
+|7|wtTrap|<img src="img/wtTrap.png"><img src="img/wtTrap2.png">|
 
 ## 2. 파라미터(속성) 뽑아 보기
 
