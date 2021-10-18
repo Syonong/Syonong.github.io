@@ -127,7 +127,7 @@
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|Player|<img src="img/char.png">|
-|2|maze|<img src="img/maze.png", "img/Trap.png">|
+|2|maze|<img src="img/maze.png"><img src="img/Trap.png">|
 |3|Trap|<img src="img/Trap2.png", "img/Trap3.png">|
 |4|spTrap|<img src="img/spTrap.png">|
 |5|smTrap|<img src="img/smTrap.png">|
