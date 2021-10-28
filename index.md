@@ -48,8 +48,8 @@
 - 이미지  
   <img src="./img/thumbnail.png">
 - 동영상
-  [![](./img/KakaoTalk_20211005_115317598.png)](https://youtu.be/w4FZRe1wjUk)
-  [![](./img/KakaoTalk_20211005_115542644.png)](https://youtu.be/JYZQKSgkZrk)
+  [![](./img/Video1.png)](https://youtu.be/w4FZRe1wjUk)
+  [![](./img/Video2.png)](https://youtu.be/JYZQKSgkZrk)
 
 <br><br>
 
@@ -127,13 +127,10 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|Player|<img src="img/char.png">|
-|2|maze|<img src="img/maze.png"><img src="img/Trap.png">|
-|3|Trap|<img src="img/Trap2.png"><img src="img/Trap3.png">|
-|4|spTrap|<img src="img/spTrap.png">|
-|5|smTrap|<img src="img/smTrap.png">|
-|6|atTrap|<img src="img/atTrap.png">|
-|7|wtTrap|<img src="img/wtTrap.png"><img src="img/wtTrap2.png">|
+|1|플레이어|<img src="img/char.png">|
+|2|미로|<img src="img/maze.png">|
+|3|열쇠|<img src="img/key.png"><img src="img/key2.png"><img src="img/key3.png">|
+|4|함정|<img src="img/Trap0.png"><img src="img/Trap1.png"><img src="img/Trap2.png"><img src="img/Trap3.png"><img src="img/Trap4.png">|
 
 
 ## 2. 파라미터(속성) 뽑아 보기
