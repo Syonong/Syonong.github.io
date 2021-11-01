@@ -53,7 +53,7 @@
 # [관련 이미지 & 동영상] <a name='2'></a>
 
 - 이미지  
-  <img src="./img/imgimg.png">
+  <img src="/img/imgimg.png">
 - 동영상
   [![](./img/Video1.png)](https://youtu.be/w4FZRe1wjUk)
   [![](./img/Video2.png)](https://youtu.be/JYZQKSgkZrk)
@@ -62,7 +62,7 @@
 
 # [대표 이미지] <a name='3'></a>
 
-[그림](./img/thumbnail.png)
+[그림]<img src="/img/thumbnail.png">
 
 <br><br>
 
