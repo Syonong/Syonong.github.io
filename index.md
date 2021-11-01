@@ -53,7 +53,7 @@
 # [관련 이미지 & 동영상] <a name='2'></a>
 
 - 이미지  
-  <img src="/img/imgimg.png">
+  <img src="/img/imgimg.jpg">
 - 동영상
   [![](./img/Video1.png)](https://youtu.be/w4FZRe1wjUk)
   [![](./img/Video2.png)](https://youtu.be/JYZQKSgkZrk)
