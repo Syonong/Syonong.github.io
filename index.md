@@ -329,7 +329,8 @@
 2. 미로와 플레이어는 충돌판정에 의해 통과할 수 없다. - 100%
 3. 조작은 기본적으로 W(전)S(좌)A(후)D(우)로 이동을 하며 마우스로 화면을 움직일 수 있다. - 100%
 <video width="100%" height="100%" controls="controls">
-<source src="./video/1주차.mp4" type="video/mp4"></video>
+  <source src="./video/1주차.mp4" type="video/mp4">
+</video>
 
 ## [개발 2주차] <a name='9-b'></a>
 1. 에셋에서 다운받은 미로의 크기를 조정한다. - 100%
@@ -338,7 +339,8 @@
 4. tag"player"와의 충돌판정 체크 - 100%
 5. 떨어졌을 시 낭떨어지직전의 블록에 스폰을 설정하기 위한 충돌 판정 오브젝트 설치 - 30%
 <video width="100%" height="100%" controls="controls">
-<source src="./video/2주차.mp4" type="video/mp4"></video>
+  <source src="./video/2주차.mp4" type="video/mp4">
+</video>
 
 ## [개발 3주차] <a name='9-c'></a>
 1. 낭떨어지에 떨어졌을 시 낭떨어지 직전의 블록에 스폰을 설정하기 위한 충돌 판정 오브젝트 - 0%
@@ -346,4 +348,6 @@
 3. 플레이어2에도 함정(낭떨어지)은 6개이고 열쇠또한 6개이다. - 100%
 4. 히든에 적합한 열쇠(발판2개 열쇠4개)설치 후 상호작용을 통한 낭떨어지 블록의 위치 정상화 - 90%
 <video width="100%" height="100%" controls="controls">
-<source src="./video/3주차.mp4" type="video/mp4"></video>
+  <source src="./video/3주차.mp4" type="video/mp4">
+</video>
+
